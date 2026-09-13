@@ -6,7 +6,7 @@ Sistema de automação para consumo de dados via API REST, filtragem baseada em 
 
 * **Python 3.x**
 * **Requests** (Consumo de APIs REST)
-* **SQLite3** (Persistência de dados local)
+* **MYSQL** (Persistência de dados local)
 * **Python-dotenv** (Gerenciamento de variáveis de ambiente)
 
 ## 📁 Estrutura do Projeto
