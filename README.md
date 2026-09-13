@@ -1,6 +1,6 @@
-# Bot de Automação RPA (Python + SQLite)
+# Bot de Automação RPA (Python + MySQL)
 
-Sistema de automação para consumo de dados via API REST, filtragem baseada em regras de negócio, persistência em banco de dados relacional (SQLite) para controle de duplicidade e envio de notificações.
+Sistema de automação para consumo de dados via API REST, filtragem baseada em regras de negócio, persistência em banco de dados relacional (MySQL) para controle de duplicidade e envio de notificações.
 
 ## 🚀 Tecnologias Utilizadas
 
