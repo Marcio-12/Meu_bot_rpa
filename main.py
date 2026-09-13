@@ -10,7 +10,6 @@ def executar_bot():
     pendencias = buscar_pendencias()
     novos_itens = 0
 
-    # 3. Processa cada registro aplicando a verificação de duplicidade
     for item in pendencias:
         item_id = item['id']
         titulo = item['title']
